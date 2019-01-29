@@ -15,7 +15,7 @@ client.on('ready', async() => {
 var server = "437236584329379841"; // ايدي السررفر
 var channel = "539853412821630977";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('احبكم باكو   :heart: , احبكم باكو  :heart: , احبكم باكو  :heart: , احبكم باكو  :heart: , احبكم فراس جيمر  :heart: , احبكم فراس جيمر  :heart: , احبكم فراس جيمر  :heart: , احبكم فراس جيمر  :heart: , احبكم باكو  :heart: , احبكم فراس جيمر  :heart: , احبكم فراس جيمر  :heart: , احبكم فراس جيمر  :heart: , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:  , احبكم فراس جيمر  :heart:')
+    client.guilds.get(server).channels.get(channel).send('احبكم باكو   :heart: , احبكم باكو  :heart: , احبكم باكو  :heart')
     },305);
 })
 
