@@ -34,5 +34,3 @@ Sarcasm Land.
 })
 
 client.login(process.env.BOT_TOKEN);
-
-//A7MD.login('التوكين حقك');
